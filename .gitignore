@@ -1,0 +1,4 @@
+echo .vs/ >> .gitignore
+echo *.ipch >> .gitignore
+echo *.db >> .gitignore
+echo *.suo >> .gitignore
